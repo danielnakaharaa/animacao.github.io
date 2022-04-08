@@ -2,13 +2,14 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-    color: rgb(255, 255, 255);
     list-style: none;
     text-decoration: none;
     font-weight: 700;
     font-weight: bold;
 }
-
+li a{
+  color: white;
+}
 img{
   max-width: 100%;
     height: auto;
@@ -83,7 +84,7 @@ margin-top: 74px;
     display: grid
 }
 span{
-    color: aqua;
+    color: rgb(0, 0, 0);
 }
 
 article{
